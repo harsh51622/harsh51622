@@ -14,7 +14,7 @@
 - 🔭 I’m building **Real World Full Stack Projects**
 - 🌱 I’m currently learning **Advanced React & Django + JWT Authentication**
 - 💬 Ask me about **Web Development, React, Django, APIs**
-- 📫 Email: **vishaltyagi9837@gmail.com**
+- 📫 Email: **hkumar51622@gmail.com**
 - ⚡ Fun fact: *I focus more on projects than theory 😎*
 
 ---
@@ -22,15 +22,15 @@
 ## 🌐 Connect With Me:
 
 <p align="left">
-<a href="https://linkedin.com/in/your-link" target="blank">
+<a href="https://linkedin.com/in/harsh_kumar51" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/vizzRG" target="blank">
+<a href="https://github.com/harsh51622" target="blank">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/your-link" target="blank">
+<a href="https://instagram.com/tonigh_tgamer_" target="blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
@@ -49,42 +49,6 @@
 <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
-
----
-
-## 🚀 My Projects:
-
-### 🌐 Havron Website (Full Stack / Responsive Web Project)
-- Designed and developed a responsive business website  
-- Built using HTML, CSS, JavaScript & React.js  
-- Modern UI with animations and mobile-friendly design  
-- Includes Home, Services, About & Contact pages  
-
-🔗 https://github.com/vizzRG/havron-website
-
----
-
-### 🔐 Login Signup System (React + Django)
-- Full authentication system using JWT  
-- Each user gets their own dashboard  
-- CRUD operations (Create, Read, Update, Delete)  
-
-🔗 https://github.com/vizzRG/login-signup-system
-
----
-
-### ☁️ Weather App
-- Fetches live weather data using API  
-- City-based search system  
-- Clean UI with real-time updates  
-
-🔗 https://github.com/vizzRG/weather-app
-
----
-
-### 🛒 Amazon Clone (In Progress 🚧)
-- Full stack eCommerce project  
-- Features: Auth, Cart, Orders, Payment Integration  
 
 ---
 
