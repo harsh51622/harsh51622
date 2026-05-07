@@ -55,7 +55,9 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh51622&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=harsh51622&show_icons=true&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harsh51622&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
