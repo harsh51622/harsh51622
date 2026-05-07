@@ -33,6 +33,14 @@
 <a href="https://instagram.com/tonigh_tgamer_" target="blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
+<a href="https://x.com/hkumar51622" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="[https://facebook.com/your_username](https://www.facebook.com/profile.php?id=61587298960661)" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 </p>
 
 ---
