@@ -22,7 +22,7 @@
 ## 🌐 Connect With Me:
 
 <p align="left">
-<a href="https://linkedin.com/in/harsh_kumar51" target="blank">
+<a href="www.linkedin.com/in/harsh-kumar95" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
